@@ -9,6 +9,9 @@
 [사용 기술]
 - HTML / CSS / React JSX
 
+[사용 툴]
+- VS Code
+
 [맡은 역할]
 - 뮤지컬 디테일 페이지와 예매 기능 담당
 - Axios와 Postman을 이용해서 데이터 가져오기
