@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    /* 브라우저 기본 마진 리셋 */
+    padding: 0;
+    /* 브라우저 기본 패딩 리셋 */
+    box-sizing: border-box;
+    /* 테두리까지 포함해서 박스 모델 너비로 계산 */
+    font-family: 'Nanum Gothic', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#container {
+    width: 100%;
+    /* 내용 전체의 너비 */
+    margin: auto;
+    /* 내용을 화면 가운데 배치하도록 좌우 마진을 auto로 */
+}
+
+#header {
+    width: 100%;
+    /* 부모 요소의 너비와 똑같게 */
+    height: auto;
+    /* 헤더의 높이 */
+    background-color: #001529;
+}
+
+#left-sidebar {
+    width: 15%;
+    /* 사이드바의 너비 */
+    height: auto;
+    /* 사이드바의 높이 */
+    background-color: white;
+    float: left;
+    margin-top: 50px;
+    /* 왼쪽으로 플로팅 */
+}
+
+#contents-head {
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+
+#contents {
+    width: 70%;
+    /* 본문의 너비 */
+    height: auto;
+    /* 본문의 높이 */
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: white;
+    float: left;
+    /* 왼쪽으로 플로팅 */
+}
+
+#right-sidebar {
+    width: 15%;
+    /* 사이드바의 너비 */
+    height: auto;
+    /* 사이드바의 높이 */
+    float: right;
+    /* 왼쪽으로 플로팅 */
+    background-color: white;
+    margin-top: 50px;
+}
+
+#footer {
+    width: 100%;
+    /* 부모 요소의 너비와 똑같게  */
+    clear: left;
+    /* 플로팅 해제 */
+}

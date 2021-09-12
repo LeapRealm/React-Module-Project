@@ -1,0 +1,37 @@
+.header {
+  /* border-bottom: 3px solid palegoldenrod; */
+  background-color: black;
+}
+
+.hd {
+  color: white;
+}
+
+/* .search{
+  background-color: white;
+  width: 300px;
+  
+} */
+Menu.Item {
+  font-weight: border !important;
+  font-size: 20px;
+}
+
+input[type='text'] {
+  height: 20px;
+  color: black;
+}
+
+#tl {
+  clear: left;
+
+}
+
+.search {
+  float: right !important;
+}
+
+.hidden {
+  width: 70%;
+  visibility: hidden;
+}

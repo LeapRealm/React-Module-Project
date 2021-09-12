@@ -1,0 +1,35 @@
+.summaryTable {
+  display: inline-block;
+  vertical-align: top;
+  margin: auto 30px;
+  padding: 5px;
+}
+
+.priceLable {
+  text-align: left;
+  vertical-align: top;
+}
+
+.summaryTable th,
+.summaryTable td {
+  padding: 10px 15px;
+}
+
+.mainPriceValue {
+  font-weight: bold;
+  text-align: right;
+  font-size: 1.2rem;
+}
+
+.priceValue {
+  font-weight: bold;
+  text-align: right;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.summaryTitle {
+  font-weight: bold;
+}

@@ -1,0 +1,46 @@
+.category {
+  width: 80%;
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 12%;
+}
+
+.tit {
+  padding: 0.3rem;
+  font-size: large;
+  /* margin-bottom: ; */
+
+}
+
+.num {}
+
+/* dl{
+  width: 30%;
+  border : 1px solid black;
+}  */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+dt {
+  font-weight: bold;
+  border-bottom: 1px solid papayawhip;
+  margin-bottom: 5px;
+}
+
+dd {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.Mgray {
+  margin-left: 15px;
+  color: grey;
+  font-size: 6px;
+}
+
+#ee {
+  border-bottom: 1px solid papayawhip;
+}

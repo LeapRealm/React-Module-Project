@@ -1,0 +1,27 @@
+.box {
+  display: inline-block;
+  margin: 5px;
+  width: 25px;
+  height: 25px;
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
+
+.checked {
+  background-color: red;
+}
+
+.R {
+  background-color: violet;
+}
+.S {
+  background-color: green;
+}
+.A {
+  background-color: skyblue;
+}
+.B {
+  background-color: orange;
+}

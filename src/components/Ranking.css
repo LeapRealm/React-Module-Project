@@ -1,0 +1,48 @@
+ul {
+  list-style-type: none;
+  padding: 1px;
+  margin-bottom: 0px !important;
+}
+
+ul > li {
+  color: white;
+  text-align: center;
+  border-top: 1px solid black;
+  margin-bottom: 1px;
+}
+
+.title {
+  text-align: center;
+  font-size: 200%;
+  font-weight: 1000;
+  margin-top: 15px;
+}
+
+.list {
+  width: 80%;
+  position: sticky;
+
+}
+
+.contents {
+  background-color: white;
+  font-size: 1rem;
+  border: 1px solid black;
+  margin-bottom: 30px;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+  color: #000;
+}
+
+li a:hover {
+  background-color: rgba(200, 200, 200, 0.3);
+  color: skyblue;
+}
+
+li a img {
+  display: hidden;
+
+}

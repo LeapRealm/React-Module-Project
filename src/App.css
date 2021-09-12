@@ -1,0 +1,28 @@
+.appContainer {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  width: 1280px;
+  position: relative;
+}
+
+.topbutton {
+  padding-top: 10px;
+  margin-left: 25px;
+  text-align: center;
+  position: absolute;
+  right: 100px;
+  display: block;
+  width: 54px;
+  height: 52px;
+  border: 1px solid #e1e4e9;
+  border-radius: 10px;
+  box-sizing: border-box;
+  position: sticky;
+  top: 90%;
+  color: black;
+}
+
+.headerContainer {
+  margin-bottom: 50px;
+}
