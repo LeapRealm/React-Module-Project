@@ -1,3 +1,26 @@
+## [리액트 프로젝트] 뮤지컬 예매 사이트 설계 및 구현
+
+[기관/과정명]
+- 한국품질재단 / 부산 클라우드 네이티브 애플리케이션 개발자 양성과정
+
+[기간]
+- 2021.06.14~2021.06.18
+
+[사용 기술]
+- HTML / CSS / React JSX
+
+[맡은 역할]
+- 뮤지컬 디테일 페이지와 예매 기능 담당
+- Axios와 Postman을 이용해서 데이터 가져오기
+- 최종 PPT 발표
+
+[구현 결과]
+- 사용자 친화적인 UI를 생각해서 구현
+- 예매 기능에서 예외 처리를 완벽하게 하지 못한 것이 아쉬움
+
+[깃허브 페이지]
+- https://leaprealm.github.io/React-Module-Project/
+
 ![1](https://user-images.githubusercontent.com/43628076/132982332-2d2ba60e-5e5a-455b-baed-30988e53ee31.png)
 ![2](https://user-images.githubusercontent.com/43628076/132982333-86dea07e-21b3-423e-a0fc-e813743e030b.png)
 ![3](https://user-images.githubusercontent.com/43628076/132982338-9cff2f0e-7b58-46dd-895d-c0ca1afd6872.png)
