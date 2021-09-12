@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Module-Project/static/css/main.fa2db89f.chunk.css",
+    "main.js": "/React-Module-Project/static/js/main.409a61dc.chunk.js",
+    "main.js.map": "/React-Module-Project/static/js/main.409a61dc.chunk.js.map",
+    "runtime-main.js": "/React-Module-Project/static/js/runtime-main.222831b6.js",
+    "runtime-main.js.map": "/React-Module-Project/static/js/runtime-main.222831b6.js.map",
+    "static/css/2.3e5b3b7f.chunk.css": "/React-Module-Project/static/css/2.3e5b3b7f.chunk.css",
+    "static/js/2.f2d35db2.chunk.js": "/React-Module-Project/static/js/2.f2d35db2.chunk.js",
+    "static/js/2.f2d35db2.chunk.js.map": "/React-Module-Project/static/js/2.f2d35db2.chunk.js.map",
+    "index.html": "/React-Module-Project/index.html",
+    "static/css/2.3e5b3b7f.chunk.css.map": "/React-Module-Project/static/css/2.3e5b3b7f.chunk.css.map",
+    "static/css/main.fa2db89f.chunk.css.map": "/React-Module-Project/static/css/main.fa2db89f.chunk.css.map",
+    "static/js/2.f2d35db2.chunk.js.LICENSE.txt": "/React-Module-Project/static/js/2.f2d35db2.chunk.js.LICENSE.txt",
+    "static/media/img1.7d6e04c9.png": "/React-Module-Project/static/media/img1.7d6e04c9.png",
+    "static/media/mimg1.8f1e0ff0.jpg": "/React-Module-Project/static/media/mimg1.8f1e0ff0.jpg",
+    "static/media/mimg2.58458910.jpg": "/React-Module-Project/static/media/mimg2.58458910.jpg",
+    "static/media/mimg3.4ee816db.jpg": "/React-Module-Project/static/media/mimg3.4ee816db.jpg",
+    "static/media/slick-theme.css": "/React-Module-Project/static/media/slick.c94f7671.ttf",
+    "static/media/광화문연가.f0aca9e1.gif": "/React-Module-Project/static/media/광화문연가.f0aca9e1.gif",
+    "static/media/라루미에르.d4d38cf9.jpg": "/React-Module-Project/static/media/라루미에르.d4d38cf9.jpg",
+    "static/media/리틀잭.214217d2.jpg": "/React-Module-Project/static/media/리틀잭.214217d2.jpg",
+    "static/media/마마,돈크라이.72661541.jpg": "/React-Module-Project/static/media/마마,돈크라이.72661541.jpg",
+    "static/media/명동로망스.018a268d.jpg": "/React-Module-Project/static/media/명동로망스.018a268d.jpg",
+    "static/media/무인도탈출기.93620fc4.jpg": "/React-Module-Project/static/media/무인도탈출기.93620fc4.jpg",
+    "static/media/문스토리.1953890d.jpg": "/React-Module-Project/static/media/문스토리.1953890d.jpg",
+    "static/media/시카고.11c82011.jpg": "/React-Module-Project/static/media/시카고.11c82011.jpg",
+    "static/media/윤동주, 달을 쏘다.ba99cbf3.jpg": "/React-Module-Project/static/media/윤동주, 달을 쏘다.ba99cbf3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.222831b6.js",
+    "static/css/2.3e5b3b7f.chunk.css",
+    "static/js/2.f2d35db2.chunk.js",
+    "static/css/main.fa2db89f.chunk.css",
+    "static/js/main.409a61dc.chunk.js"
+  ]
+}
